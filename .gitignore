@@ -1,0 +1,8 @@
+lib
+bin
+.Python
+pip-selfcheck.json
+python3.5m
+*.png
+*.jpg
+*.pyc
